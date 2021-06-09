@@ -1,1 +1,0 @@
-This is mandatory for all ALX students.
